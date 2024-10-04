@@ -16,7 +16,7 @@ Download the project and run wordguesser.py
 There are no additional requirements besides python 3.10.
 Make sure your file tree looks like this so the program can find the right files:
 
-'''
+```bash
 wordguesser/
 ├── code/
 │   ├── game.py
@@ -26,6 +26,6 @@ wordguesser/
 │   └── wordguesser.py
 └── data/
     └── highscore.json
-'''
+```
 
 
