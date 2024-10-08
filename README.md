@@ -26,14 +26,9 @@ A fun, easy to understand program that deals with a lot of the basics. Good for 
     ```
 
 3. Ensure you have Python installed (preferably Python 3.10).
-   
-4. Install any necessary dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-5. Run the game:
+4. Run the game:
 
     ```bash
     python wordguesser.py
