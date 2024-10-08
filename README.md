@@ -11,20 +11,33 @@ A fun, easy to understand program that deals with a lot of the basics. Good for 
 - Each game consists of 10 rounds
 - Highscore system (points and time spent) for each level
 
-### How to run it
-Download the project and run wordguesser.py. There are no additional requirements besides Python 3.10.
-Make sure your file tree looks like this so that the program can find the right files:
+## Installation
 
-```bash
-wordguesser/
-├── code/
-│   ├── game.py
-│   ├── highscore_utils.py
-│   ├── player.py
-│   ├── round.py
-│   └── wordguesser.py
-└── data/
-    └── highscore.json
-```
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/LoVaKo/WordGuesser.git
+    ```
+
+2. Navigate to the directory:
+
+    ```bash
+    cd WordGuesser
+    ```
+
+3. Ensure you have Python installed (preferably Python 3.10).
+   
+4. Install any necessary dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Run the game:
+
+    ```bash
+    python wordguesser.py
+    ```
+
 
 
